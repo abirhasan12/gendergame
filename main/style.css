@@ -1,0 +1,54 @@
+.header{
+  margin-left:500px;
+}
+.btn{
+  margin-left:90px;
+}
+#b1{
+  background:red;
+  color:white;
+  border-color:green;
+  border-radius:10px;
+}
+#b2{
+  background:green;
+  color:white;
+  border-color:red;
+  border-radius:10px;
+}
+.message{
+  height:150px;
+  background:#0060df;
+  color:white;
+  display:none;
+}
+.message p{
+  text-align:center;
+  padding:5px;
+  text-size:20px;
+}
+.message2{
+  background:black;
+  color:#0060df;
+  height:150px;
+  display:none;
+}
+.message2 h1{
+  text-align:center;
+  padding:30px;
+}
+#bal{
+  text-align:center;
+}
+.home{
+  margin-left:600px;
+  margin-top:100px;
+  padding:10px;
+  display:none;
+}
+.home button{
+  background:green;
+  color:yellow;
+  border-color:#C0C0C0;
+  border-radius:10px;
+}
